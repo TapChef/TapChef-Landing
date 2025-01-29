@@ -1,4 +1,3 @@
-<?php?>
 <!DOCTYPE html>
 <html lang="en">
 <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -7,6 +6,7 @@
 	<link href="css/bootstrap.min.css" rel="stylesheet" />
 	<link href="css/style.css" rel="stylesheet" />
 	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet" />
+<?php?>
 </head>
 <body class="fixed-bottom-bar">
 <div class="cookie-notice position-fixed bottom-0 w-100 bg-dark text-light p-3" style="z-index: 1000;">
