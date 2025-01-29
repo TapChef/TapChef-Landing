@@ -1,0 +1,257 @@
+<?php?>
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link href="img/fav.png" rel="icon" type="image/png" />
+	<title>TapChef - Top Quality Chef; One Tap Away</title>
+	<link href="css/bootstrap.min.css" rel="stylesheet" />
+	<link href="css/style.css" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet" />
+</head>
+<body class="fixed-bottom-bar">
+<div class="cookie-notice position-fixed bottom-0 w-100 bg-dark text-light p-3" style="z-index: 1000;">
+        <div class="container d-flex justify-content-between align-items-center">
+            <p class="mb-0">This website uses cookies for traffic analysis and experience optimization.</p>
+            <button class="btn btn-light" onclick="this.parentElement.parentElement.style.display='none'">Accept</button>
+        </div>
+    </div>
+
+<header class="section-header">
+<div class="container">
+<div class="row">
+<div class="main-logo">
+<div class="site-logo"><a href="#"><img alt="logo" class="img-fluid" src="img/white_logo.png" /> </a></div>
+</div>
+
+<div class="header-right col-md-12 text-right">
+<ul class="social-media">
+	<li><a href="#"><img alt="facebook" src="img/fb_header.png" /></a></li>
+	<li><a href="#"><img alt="twitter" src="img/twitter_header.png" /></a></li>
+	<li><a href="#"><img alt="instagram" src="img/insta_header.png" /></a></li>
+	<li><a href="#"><img alt="pinterest" src="img/pinterest_header.png" /></a></li>
+	<li><a href="#"><img alt="google" src="img/g+_header.png" /></a></li>
+</ul>
+</div>
+</div>
+</div>
+</header>
+
+<div class="osahan-home-page">
+<div class="home-banner">
+<div class="banner-inner">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-md-6">
+<div class="homebanner-content">
+<div class="banner-logo">&nbsp;
+<h3>Chefs Delivered</h3>
+</div>
+
+<p>Top Quality Personal Chef; one tap away</p>
+
+<div class="ban-btn"><a href="#"><img src="img/appstore.png" /></a> <a href="#"><img src="img/google_play.png" /></a></div>
+</div>
+</div>
+
+<div class="col-md-6 banner-right">
+<div class="banner-img text-center"><img src="img/hero_banner_img.png" /></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<section class="sec-delivery-app pt-3 pb-5">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-md-4 delapp-left"><img alt="Food Delivery App" src="img/food-delivery-img.png" /></div>
+
+<div class="col-md-8 delapp-right pl-5">
+<div class="delapp-right-cont mb-4">
+<h3>TapChef</h3>
+
+<p>With TapChef, enjoy delicious, personalized meals cooked by top quality chefs in the comfort of your home or at your next event. Whether it&#39;s a special occasion or a cozy dinner, we connect you with top chefs ready to craft the perfect dining experience.</p>
+</div>
+
+<div class="delapp-right-cont pb-4">
+<h3>What is TapChef?</h3>
+
+<p>TapChef is a convenient app that allows you to book a personal chef for any occasion. Simply choose your chef, select your menu, and let them take care of the rest. From intimate dinners to large events, TapChef brings gourmet meals directly to you, whenever and wherever you need them.</p>
+</div>
+
+<div class="delapp-right-cont-btm">
+<div class="food-icon row align-items-center text-center">
+<div class="col-md-4 col-sm-4"><img alt="Food Delivery App" src="img/good_food.png" />
+<h4 class="mt-3">Great Food</h4>
+</div>
+
+<div class="col-md-4 col-sm-4"><img alt="Food Delivery App" src="img/fast_delivery.png" />
+<h4 class="mt-3">Fast Booking</h4>
+</div>
+
+<div class="col-md-4 col-sm-4"><img alt="Food Delivery App" src="img/best_prices.png" />
+<h4 class="mt-3">Best Prices</h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="sec-how-it-work py-7">
+<div class="container">
+<div class="row">
+<div class="col-md-12 sec-title text-center mb-5">
+<h2>See How it Works</h2>
+
+<p class="sub-title">Easy, Fast &amp; Reliable</p>
+</div>
+</div>
+
+<div class="row howitwork-content">
+<div class="col-md-3">
+<div class="howitwork-block howitwork-block1 text-center"><span class="hw-icon"><img alt="How it work" src="img/icon.png" /> </span>
+
+<div class="hwit-detail mt-5">
+<h3>Search</h3>
+
+<p>Search all avalible chefs in your area.</p>
+</div>
+</div>
+</div>
+
+<div class="col-md-3">
+<div class="howitwork-block howitwork-block2 text-center"><span class="hw-icon"><img alt="How it work" src="img/choose.png" /> </span>
+
+<div class="hwit-detail mt-5">
+<h3>Choose</h3>
+
+<p>Browse thousands of menus to find the food you like</p>
+</div>
+</div>
+</div>
+
+<div class="col-md-3">
+<div class="howitwork-block howitwork-block3 text-center"><span class="hw-icon"><img alt="How it work" src="img/pay.png" /> </span>
+
+<div class="hwit-detail mt-5">
+<h3>Pay</h3>
+
+<p>Pay for your chef &amp; food easily, safely and securely</p>
+</div>
+</div>
+</div>
+
+<div class="col-md-3">
+<div class="howitwork-block howitwork-block4 text-center"><span class="hw-icon"><img alt="How it work" src="img/delivery.png" /> </span>
+
+<div class="hwit-detail mt-5">
+<h3>Book</h3>
+
+<p>Have one of our highly rated chef to your door within 24hrs</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="sec-get-started py-7">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-md-6 get-started-left">
+<div class="sec-title mb-3 dark-title">
+<h5 class="sub-title mb-0 mt-0">Your Chef, Delivered</h5>
+
+<h2>Get Started Today!</h2>
+</div>
+
+<div class="cust-ser-block">
+<h3 class="mb-3 mt-0">With TapChef, enjoying a personalized chef experience has never been easier. Our platform connects you with talented chefs, ensuring a seamless booking process and an unforgettable meal. Whether it&#39;s a private dinner or a large event, TapChef offers a smooth, stress-free experience from start to finish, allowing you to enjoy your meal without the hassle.</h3>
+
+<p></p>
+</div>
+
+<div class="row get-started-btm mt-5">
+<div class="col-md-6"><span class="get-icon mb-3"><img alt="Get Started" src="img/foodorder.png" /></span>
+
+<h3>Food Order</h3>
+
+<p>Previously for customers ordering food from neighboring eateries that could deliver to your door was limited .</p>
+</div>
+
+<div class="col-md-6"><span class="get-icon mb-3"><img alt="Get Started" src="img/promote.png" /></span>
+
+<h3>Promote Restaurant</h3>
+
+<p>Restaurant seating capacity maybe 100-200 at a time, or even less, but with an online food ordering app,</p>
+</div>
+</div>
+</div>
+
+<div class="col-md-6 get-started-right">
+<div class="get-started-img text-right"><img alt="Get Started" src="img/get_started.png" /></div>
+</div>
+</div>
+</div>
+</section>
+</div>
+
+<footer class="section-footer border-top bg-dark">
+<div class="container">
+<section class="footer-top border-top py-5 text-center">
+<div class="ft-logo mb-5"><img alt="Logo" src="img/white_logo.png" /></div>
+
+<div class="footer-tp-middel d-flex align-items-center mb-5">
+<div class="ft-social">
+<ul>
+	<li><a href="#"><img alt="facebook" src="img/fb_footer.png" /></a></li>
+	<li><a href="#"><img alt="twitter" src="img/twitter_footer.png" /></a></li>
+	<li><a href="#"><img alt="instagram" src="img/insta_footer.png" /></a></li>
+	<li><a href="#"><img alt="pinterest" src="img/pentrest_footer.png" /></a></li>
+	<li><a href="#"><img alt="google" src="img/g+_footer.png" /></a></li>
+</ul>
+</div>
+
+<div class="ft-app-link ml-3">
+<ul>
+	<li><a href="#"><img alt="App Store" src="img/appstore_footer.png" /></a></li>
+	<li><a href="#"><img alt="App Store" src="img/google_play_footer.png" /></a></li>
+</ul>
+</div>
+</div>
+
+<div class="footer-tp-bottom">
+<div class="contact-info">
+<h3>CONTACT US</h3>
+
+<ul>
+	<li><a href="mailto:hello@tapchef.app"><img alt="info" src="img/mail.png" /> hello@tapchef.app</a></li>
+	<li><a href="tel:+18558272433"><img alt="info" src="img/call.png" /> +1 (855) 827-2433</a></li>
+</ul>
+</div>
+</div>
+<section class="subscribe-section py-5 text-center">
+    <div class="container">
+        <h3>Stay Updated with TapChef</h3>
+        <p>Subscribe to receive exclusive dining experiences and updates</p>
+        <form class="subscribe-form d-flex justify-content-center align-items-center">
+            <div class="input-group mb-3 w-50">
+                <input type="email" class="form-control" placeholder="Enter your email address" aria-label="Email address">
+                <button class="btn btn-primary" type="submit">Subscribe</button>
+            </div>
+        </form>
+    </div>
+</section>
+
+</section>
+
+<section class="footer-copyright border-top py-3">
+<div class="container text-center">
+<p class="mb-0">&copy; Copyright 2025 TapChef. All rights reserved.</p>
+</div>
+</section>
+</div>
+</footer>
+<script type="490cf4da05ddb33bf38d2254-text/javascript" src="js/bootstrap.bundle.min.js"></script></body>
